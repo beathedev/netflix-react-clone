@@ -1,7 +1,7 @@
 # Netflix Clone
 <div align="center">
 <h4>Clone da homepage da Netflix utilizando React JS</h4>
-<img src="https://media1.giphy.com/media/4N43w83KhK1sCJfGOp/giphy.gif?cid=790b76110bd65a99e20212fe185487e98fe167650fd10f1d&rid=giphy.gif&ct=g" alt="demonstração da aplicação"></img>
+<img src="https://media1.giphy.com/media/4N43w83KhK1sCJfGOp/giphy.gif?cid=790b76110bd65a99e20212fe185487e98fe167650fd10f1d&rid=giphy.gif&ct=g" alt="demonstração da aplicação">
 </div>
 
 ## Tecnologias
