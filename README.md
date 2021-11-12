@@ -15,4 +15,4 @@ Esta aplicação foi desenvolvida em React.js, onde a aplicação consome a API 
   &nbsp&nbsp
 </p>
 
-git pull origin main --allow-unrelated-histories
+
